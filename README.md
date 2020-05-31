@@ -1,7 +1,7 @@
 # RIPv1 Protocol
 ## Required packages:
-     * docker-compose
-     * python3-dev
+      docker-compose
+      python3-dev
      
 ## Could need to start project init:
  1. Docker enabled on system
