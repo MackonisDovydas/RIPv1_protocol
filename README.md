@@ -4,7 +4,7 @@
      * python3-dev
      
 ## Could need to start project init:
-2. Docker enabled on system
+  Docker enabled on system
       1. Add your user to the docker group `# sudo usermod -aG docker $(whoami)` (you will need to relog for the change to take effect)
       2. Start docker daemon on boot `# systemctl enable docker`
 
