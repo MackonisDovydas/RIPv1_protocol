@@ -1,0 +1,5 @@
+[packages]
+sqlalchemy = "*"
+psycopg2 = "*"
+alembic = "*"
+parse = "*"
