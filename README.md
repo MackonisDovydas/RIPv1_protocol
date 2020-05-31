@@ -1,4 +1,9 @@
 # RIPv1 Protocol
+## Required packages:
+     * docker-compose
+     * git
+     * python3-dev
+
 ## What commands to type for init
   1. direnv allow
   2. bash start.sh
