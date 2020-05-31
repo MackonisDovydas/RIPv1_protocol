@@ -1,8 +1,12 @@
 # RIPv1 Protocol
 ## Required packages:
      * docker-compose
-     * git
      * python3-dev
+     
+## Could require to do:
+2. Docker enabled on system
+      1. Add your user to the docker group `# usermod -aG docker $(whoami)` (you will need to relog for the change to take effect)
+      2. Start docker daemon on boot `# systemctl enable docker`
 
 ## What commands to type for init
   1. direnv allow
