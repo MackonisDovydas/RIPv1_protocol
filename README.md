@@ -2,6 +2,7 @@
 ## What commands to type for init
   1. direnv allow
   2. bash start.sh
+  3. In each console window write: pipenv shell
   
 ## API:
   1. Create router: python3 Router.py <name>
